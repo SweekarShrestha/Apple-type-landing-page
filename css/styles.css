@@ -1,0 +1,161 @@
+/*fonts
+font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+*/
+
+#title
+{
+  background-color: grey;
+  background-image: url("images/dog-img.jpg");
+}
+
+.container-fluid
+{
+  padding: 3% 15%;
+}
+
+
+/* Navigation bar */
+
+
+
+.navbar
+{
+  padding: 0.25rem 1rem 0.25rem 5rem;
+}
+
+.nav-item
+{
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.navbar-brand
+{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+.nav-link
+{
+  font-size: 1.2rem;
+}
+
+h1
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  color: white;
+}
+
+
+.btns
+{
+  padding: 30px 30px 30px 0;
+}
+
+.iphone-img
+{
+  padding: 20px;
+  width: 750px;
+  height: 400px;
+  margin: auto;
+  text-align: center;
+}
+
+/* Download Buttons */
+.apple-btn
+{
+  margin: 5% 3% 5% 0;
+}
+
+.wrap
+{
+  padding-left: 100px;
+}
+
+.carrot
+{
+  padding-left: 10px;
+}
+
+/* Features CSS */
+#features
+{
+  padding: 7% 2%;
+}
+
+.icons
+{
+  color: #ef8172;
+  text-align: center;
+}
+
+.icons:hover
+{
+  color: #ff4c86;
+}
+
+.row
+{
+  width: 95%;
+}
+h3
+{
+  font-size: 1.5rem;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 30px;
+}
+
+.bullseye-description2
+{
+  font-size: 1.5rem;
+  color: #8f8f8f;
+  padding: 5px 150px;
+}
+
+/* Price */
+.price
+{
+  color: black;
+}
+
+.iphonex
+{
+  margin: 0 auto 20px auto;
+  padding-right: 60px;
+}
+
+#footer
+{
+  background-color: #525864;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  color: white;
+  padding-bottom: 50px;
+}
+
+.copyright
+{
+  padding-top: 10px;
+  font-size: 1.5rem;
+  text-align: center
+}
+
+.social
+{
+  padding: 10px 20px;;
+  font-size: 5rem;
+}
+
+.social:hover
+{
+  color: #e4e3e3;
+}
+
+p
+{
+  text-align: left;
+}
